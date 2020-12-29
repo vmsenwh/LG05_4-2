@@ -1,0 +1,4 @@
+2020-12-29 14:09:17,274 - test_calc_new - INFO - Start print log
+2020-12-29 14:09:17,275 - test_calc_new - DEBUG - Do something
+2020-12-29 14:09:17,275 - test_calc_new - WARNING - Something maybe fail.
+2020-12-29 14:09:17,275 - test_calc_new - INFO - Finish
